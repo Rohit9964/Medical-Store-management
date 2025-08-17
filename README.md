@@ -113,7 +113,7 @@ The system ensures smooth operations with CRUD features, search, and automatic a
 
 ## 👨‍💻 Author
 Developed by **Rohit H**  
-📧 Email: your-email@example.com  
+📧 Email: rohithonakhande2@gmail.com  
 🌐 GitHub: [Rohit9964](https://github.com/Rohit9964)
 
 ---
